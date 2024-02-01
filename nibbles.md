@@ -188,7 +188,7 @@ It may take a while to load, but once it's ready let's search for nibbleblog exp
 ![image](https://github.com/b-obby/HTB-walkthroughs/assets/157441224/30b738f6-465c-434d-a372-88946985b95c)
 
 We see that there is one exploit available for nibbleblog, so let's see if we can use it against our target. 
-First, let's learn more about the exploit in the database using the 'info 0' command.
+First, let's learn more about the exploit in the database using the `info 0` command.
 ![image](https://github.com/b-obby/HTB-walkthroughs/assets/157441224/a88135eb-32fa-4df2-8561-b33fc33a57ae)
 
 We now know that this is a file upload vulnerability, similar to the initial foothold we did earlier. 
