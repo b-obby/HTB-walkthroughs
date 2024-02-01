@@ -1,4 +1,9 @@
 # Nibbles
+![image](https://github.com/b-obby/HTB-walkthroughs/assets/157441224/42301217-0268-4e76-857f-ef74fde3e297)
+
+
+
+
 Nibbles is a simple machine where the user is given a url to a web application. Participants are expected to showcase common enumeration tactics, basic web application exploitation, and file-related misconfigurations to escalate privileges. Nibbles is given to us to complete as part of the Certified Penetration Testing Specialist pathway on HTB Academy. 
 
 I will be documenting my thought process along with steps I am taking to reach the endgoal of exploiting the system and obtaining root access. 
