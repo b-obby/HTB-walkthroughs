@@ -178,7 +178,7 @@ We are given a root.txt file. After using cat to see what's inside, we have obta
 ![image](https://github.com/b-obby/HTB-walkthroughs/assets/157441224/d656d0aa-1a22-492a-9e2e-30d0e2175abf)
 
 
-## Alternative: Using Metasploit to obtain a footdoor
+## Alternative: Using Metasploit to obtain a foothold
 
 > In order for this to work, we need to already know the credentials for the admin portal
 
